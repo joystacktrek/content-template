@@ -12,7 +12,6 @@ https://docs.google.com/presentation/d/1BXPkDWUdcH2QzA25BWNw8xWBJRpkg1O8OBvi8LFV
 
 <strong>Markdown Files (.md)</strong> - This is ideal for the following: reading materials, summary, cheat sheets and activities instructions. Refrain to use this if we have a lot of images
 
-## Naming Conventions
 
 ## Structure
 Every chapter, article, or task has its folder.
